@@ -67,7 +67,7 @@ JWT-based authentication secures user sessions and protects game actions and soc
 ### Step 1: Clone the Repository
 ```bash
 git clone git@github.com:Rachit-31/Cautio_Assignment.git
-cd hangout-hangman
+cd cautio_assignment
 ```
 
 ### Step 2: Backend Setup
